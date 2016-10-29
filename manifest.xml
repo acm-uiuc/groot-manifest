@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" fetch="." />
+
+	<default remote="origin" revision="master" />
+
+	<project path="groot" name="groot" />
+	<project path="groot-groups-service" name="groot-groups-service" />
+	<project path="groot-users-service" name="groot-users-service" />
+	<project path="groot-recruiters-service" name="groot-recruiters-service" />
+	<project path="groot-quotes-service" name="groot-quotes-service" />
+
+</manifest>
