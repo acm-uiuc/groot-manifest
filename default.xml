@@ -9,5 +9,6 @@
 	<project path="groot-users-service" name="groot-users-service" />
 	<project path="groot-recruiters-service" name="groot-recruiters-service" />
 	<project path="groot-quotes-service" name="groot-quotes-service" />
+	<project path="groot-desktop-frontend" name="groot-desktop-frontend" />
 
 </manifest>
