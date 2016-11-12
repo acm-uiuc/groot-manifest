@@ -6,6 +6,7 @@
 
 	<project path="groot" name="groot" />
 	<project path="groot-groups-service" name="groot-groups-service" />
+	<project path="groot-groups-service/store" name="groot-groups-store" />
 	<project path="groot-users-service" name="groot-users-service" />
 	<project path="groot-recruiters-service" name="groot-recruiters-service" />
 	<project path="groot-quotes-service" name="groot-quotes-service" />
