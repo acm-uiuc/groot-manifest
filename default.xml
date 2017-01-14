@@ -5,6 +5,7 @@
 	<default remote="origin" revision="master" />
 
 	<project path="groot" name="groot" />
+	<project path="." name="groot-deploy" />
 	<project path="groot-groups-service" name="groot-groups-service" />
 	<project path="groot-groups-service/store" name="groot-groups-store" />
 	<project path="groot-users-service" name="groot-users-service" />
