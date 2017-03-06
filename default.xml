@@ -12,6 +12,7 @@
 	<project path="groot-recruiters-service" name="groot-recruiters-service" />
 	<project path="groot-recruiters-service/views" name="groot-recruiters-templates" />
 	<project path="groot-quotes-service" name="groot-quotes-service" />
+	<project path="groot-merch-service" name="groot-merch-service" />
 	<project path="groot-events-service" name="groot-events-service" />
 	<project path="groot-meme-service" name="groot-meme-service" />
 	<project path="groot-credits-service" name="groot-credits-service" />
