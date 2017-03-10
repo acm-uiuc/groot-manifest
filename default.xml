@@ -7,9 +7,10 @@
 	<project path="groot" name="groot" />
 	<project path="." name="groot-deploy" />
 	<project path="groot-groups-service" name="groot-groups-service" />
-	<project path="groot-groups-service/store" name="groot-groups-store" />
+	<project path="groot-groups-service/store" name="groot-groups-store-example" />
 	<project path="groot-users-service" name="groot-users-service" />
 	<project path="groot-recruiters-service" name="groot-recruiters-service" />
+	<project path="groot-recruiters-service/views" name="groot-recruiters-templates-example" />
 	<project path="groot-quotes-service" name="groot-quotes-service" />
 	<project path="groot-merch-service" name="groot-merch-service" />
 	<project path="groot-events-service" name="groot-events-service" />
