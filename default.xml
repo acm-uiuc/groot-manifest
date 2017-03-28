@@ -17,6 +17,7 @@
 	<project path="groot-events-service" name="groot-events-service" />
 	<project path="groot-meme-service" name="groot-meme-service" />
 	<project path="groot-credits-service" name="groot-credits-service" />
+	<project path="groot-gigs-service" name="groot-gigs-service" />
 	<project path="groot-voz" name="groot-voz" />
 	<project path="groot-desktop-frontend" name="groot-desktop-frontend" />
 
