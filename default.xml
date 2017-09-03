@@ -20,5 +20,8 @@
 	<project path="groot-gigs-service" name="groot-gigs-service" />
 	<project path="groot-voz" name="groot-voz" />
 	<project path="groot-desktop-frontend" name="groot-desktop-frontend" />
+	<project path="groot-bot" name="groot-bot" />
+	<project path="groot-slack-bot" name="groot-slack-bot" />
+	<project path="canopy" name="canopy" />
 
 </manifest>
