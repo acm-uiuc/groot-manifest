@@ -23,5 +23,6 @@
 	<project path="groot-bot" name="groot-bot" />
 	<project path="groot-slack-bot" name="groot-slack-bot" />
 	<project path="canopy" name="canopy" />
+	<project path="display" name="display" />
 
 </manifest>
