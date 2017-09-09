@@ -22,6 +22,8 @@
 	<project path="groot-desktop-frontend" name="groot-desktop-frontend" />
 	<project path="groot-bot" name="groot-bot" />
 	<project path="groot-slack-bot" name="groot-slack-bot" />
+	<project path="groot-request-service" name="groot-request-service" />
+	<project path="groot-notification-service" name="groot-notification-service" />
 	<project path="canopy" name="canopy" />
 	<project path="display" name="display" />
 
