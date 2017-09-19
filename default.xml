@@ -24,6 +24,7 @@
 	<project path="groot-slack-bot" name="groot-slack-bot" />
 	<project path="groot-request-service" name="groot-request-service" />
 	<project path="groot-notification-service" name="groot-notification-service" />
+	<project path="groot-announcements-service" name="groot-announcements-service" />
 	<project path="canopy" name="canopy" />
 	<project path="display" name="display" />
 
