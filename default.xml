@@ -29,5 +29,6 @@
 	<project path="groot-sponsor-service/store" name="groot-sponsor-store" />
 	<project path="canopy" name="canopy" />
 	<project path="display" name="display" />
+	<project path="groot-ad-service" name="groot-ad-service" />
 
 </manifest>
